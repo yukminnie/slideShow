@@ -4,8 +4,17 @@
     border: 1px solid red;
     transition: transform 0.5s;
 }
+
+.images > img {
+    vertical-align: top;
+}
+
 .window {
     border: 10px solid green;
     width: 500px;
     overflow: hidden;
+}
+
+.red {
+    color: red;
 }
